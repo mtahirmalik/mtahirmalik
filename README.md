@@ -2,18 +2,18 @@
 
 
 
-I'm Muhammad Tahir seeking BS in Computer Engineering
+I'm Muhammad Tahir, a Computer Engineering graduate from NUTECH University Islamabad, passionate about AI, Machine Learning, and Data Science.
 
- -👀 I’m interested in AI & Machine Learning with little bit knowledge of Web Development
- 
- -🌱 I’m currently learning OOP in C++, Tensorflow for AI & expert in bacis Python programming
- 
- -💞️ I’m looking to collaborate in Web development, python based programs, OOP with C++ & AI
- 
- -📫 Reach me out and I assure you, I'll be better than your expectations while collaborating in above menthioned techs.
- 
- - 💬 Ask me about ...Anything related to the above mentioned techs.
- - 📫 How to reach me: ...[Google](https://itztahir.online)
- - 😄 Pronouns: ... He/Him
- - ⚡ Fun fact: ...I can be happy & sad at the same time.
--->
+👀 Interests: Exploring AI and Machine Learning, with a growing focus on Data Science and Analytics. Confident in SQL and always eager to deepen my expertise.
+
+🌱 Currently Learning: Enhancing my TensorFlow skills for advanced machine learning and planning to earn a Power BI certification to expand my capabilities in Data Analytics.
+
+💞️ Open to Collaboration: Excited to work on projects in Machine Learning and Data Science—always ready to contribute to impactful, data-driven solutions.
+
+📬 Let's Connect: Reach out via [LinkedIn](https://linkedin.com/in/mt-malik921); I’m dedicated to delivering high-quality, collaborative work.
+
+💬 Ask Me About: Anything related to AI, Machine Learning, SQL, or Data Analytics!
+
+😄 Pronouns: He/Him
+
+⚡ Fun Fact: I'm always up for a good challenge—whether it’s tackling a coding puzzle or finding the best tea stall late at night!
